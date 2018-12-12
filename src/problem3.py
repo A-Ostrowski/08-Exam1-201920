@@ -3,7 +3,7 @@ Exam 1, problem 3.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
+         and Arthur Ostrowski.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import testing_helper
@@ -137,6 +137,12 @@ def run_test_problem3a():
 
 
 def problem3a(r, s):
+    if k <= sum_of_digits(r)
+    k = r + n
+    n is r +1
+
+
+
     """
     What comes in:  Positive integers r and s, with r <= s.
     What goes out:
@@ -175,6 +181,9 @@ def problem3a(r, s):
 
 
 def run_test_problem3b():
+
+
+
     """ Tests the   problem3b   function. """
     print()
     print('--------------------------------------------------')
