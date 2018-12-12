@@ -3,7 +3,7 @@ Exam 1, problem 2.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
+         and Arthur Ostrowski.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
@@ -45,7 +45,6 @@ def test_factor_sum():
     # WRITE YOUR TESTS BELOW HERE:
     ###########################################################################
 
-
 def factor_sum(n):
     """
     Given a positive integer n,
@@ -70,6 +69,43 @@ def factor_sum(n):
 
        *** ASK FOR AN EXPLANATION IF YOU DO NOT UNDERSTAND THE ABOVE. ***
     """
+
+    Test two:
+    expected = 3
+    actual = 3
+    print()
+    print('Expected', expected)
+    print('Actual', actual)
+
+    Test three:
+    expected = 4
+    actual = 4
+    print()
+    print('Expected', expected)
+    print('Actual', actual)
+
+    Test four:
+    expected = 7
+    actual = 7
+    print()
+    print('Expected', expected)
+    print('Actual', actual)
+
+    Test five:
+    expected = 6
+    actual = 6
+    print()
+    print('Expected', expected)
+    print('Actual', actual)
+
+    Test six:
+    expected = 3
+    actual = 3
+    print()
+    print('Expected', expected)
+    print('Actual', actual)
+
+
     ###########################################################################
     #  This function is PURPOSELY implemented INCORRECTLY (it just returns 0).
     #  DO NOT IMPLEMENT  factor_sum.  Just leave it as it is (returning 0).
